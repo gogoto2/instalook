@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "resultCode": "20000",
+    "attach": null,
+    "timestampMs" : 1556161250537,
+    "value":
+        {
+            "is_forced": false,
+            "versionNum": "3.0.2",
+            "note":"更新",
+            "updateUrl": "https://apps.apple.com/cn/app/%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0-%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%84%91/id1356054761"
+        }
+}
