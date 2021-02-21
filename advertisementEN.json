@@ -1,0 +1,29 @@
+{
+    "success": true,
+    "resultCode": "20000",
+    "attach": null,
+    "timestampMs" : 1556161250537,
+    "links": [
+        {
+            "name": "the Wedding Date",
+            "bookUrl": "https://novel12.com/the-wedding-date/page-1-1993731.htm",
+            "url": "https://gogoto2.github.io/pictures/the-wedding-date.png"
+        },
+        {
+            "name": "Origin",
+            "bookUrl": "http://1novels.com/244616-eleanor-park.html",
+            "url": "https://gogoto2.github.io/pictures/eleanor-park.png"
+        },
+        {
+            "name": "Fangirl Page",
+            "bookUrl": "http://1novels.com/244619-fangirl.html",
+            "url": "https://gogoto2.github.io/pictures/fangirl.png"
+        },
+         {
+            "name": "The Summer I Turned Pretty",
+            "bookUrl": "http://1novels.com/244378-the-summer-i-turned-pretty.html",
+            "url": "https://gogoto2.github.io/pictures/the-summer-i-turned-pretty.png"
+        }
+
+    ]
+}
