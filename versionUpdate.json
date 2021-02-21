@@ -5,6 +5,7 @@
     "timestampMs" : 1556161250537,
     "value":
         {
+            "switch": false,
             "is_forced": false,
             "versionNum": "3.0.2",
             "note":"更新\naaaaaaaaaaaaaaaa\nsvvvvvvvvvfffff",
