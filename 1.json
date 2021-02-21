@@ -1,0 +1,24 @@
+{
+    "success": true,
+    "resultCode": "20000",
+    "attach": null,
+    "timestampMs" : 1556161250537,
+    "links": [
+        {
+            "name": "1",
+            "url": "https://gogoto2.github.io/pictures/home.png"
+        },
+        {
+            "name": "2",
+            "url": "https://gogoto2.github.io/pictures/11.png"
+        },
+        {
+            "name": "3",
+            "url": "https://gogoto2.github.io/pictures/66.png"
+        },
+         {
+            "name": "4",
+            "https://gogoto2.github.io/pictures/55.png"
+        }
+    ]
+}
